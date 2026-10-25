@@ -1,1 +1,5 @@
 #Dependencies (scappy,psutil, pyroute 2, etc.)
+scapy
+psutil
+netifaces
+asyncio 
