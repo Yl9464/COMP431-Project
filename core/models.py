@@ -1,0 +1,1 @@
+#Data clases (Device, Netwrokstate, threat)

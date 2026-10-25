@@ -1,0 +1,1 @@
+#interface detectio nand binding
